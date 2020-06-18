@@ -1,0 +1,34 @@
+.card-container {
+  width: 100vw;
+  margin-left: 8%;
+}
+.card {
+  display: flex;
+}
+
+.name-card {
+  background-color: rgb(148, 144, 150);
+  display: flex;
+  justify-content: center;
+  font-size: 22px;
+}
+
+.image-user {
+  padding: 4%;
+}
+
+.content-space {
+  background-color: rgb(219, 226, 233);
+}
+
+.back {
+  margin-top: 160%;
+  display: flex;
+  justify-content: center;
+  font-size: 22px;
+}
+
+.image-user {
+  height: 80%;
+  margin-top: 10%;
+}
